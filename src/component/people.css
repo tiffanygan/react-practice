@@ -1,0 +1,6 @@
+.people {
+  border: black solid 2px;
+  padding: 1rem;
+  margin: 1rem;
+  display: inline-block;
+}
